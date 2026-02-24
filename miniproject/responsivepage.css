@@ -1,0 +1,8 @@
+#profilePreview .card {
+    max-width: 600px;
+    margin: auto;
+    color:black;
+    background-color: aqua;
+    font-style: "Roboto";
+
+}
